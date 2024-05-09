@@ -9,7 +9,7 @@
 ![seunghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysh73900&show_icons=true&theme=gruvbox)
 <a href="https://github.com/ysh73900"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysh73900&layout=compact&theme=nord&hide_border=true" /></a> 
 <br><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysh73900)](https://solved.ac/ysh73900/)
 
 # 📞 Contact
 <div style="display:flex; flex-direction:row;">
