@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysh73900&count_bg=%23FFD700&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![seunghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysh73900&show_icons=true&theme=gruvbox)
-<a href="https://github.com/imysh578"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysh73900&layout=compact&theme=nord&hide_border=true" /></a> 
+<a href="https://github.com/ysh73900"><img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysh73900&layout=compact&theme=nord&hide_border=true" /></a> 
 <br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
 
